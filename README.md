@@ -5,8 +5,8 @@
  ## This challenge is started on July 21, 2020 📅
  ### In this challenge a submitted 30 little to medium size projects. Sometimes I did a little website component or sometimes some javaScript app as a submit. I did it to boost my HTML, CSS & JS skills. Down here you will find all the live previews and youTube videos (how I made it). Also here is the full playlist for this #30days30submits challenge => [playlist](https://www.youtube.com/playlist?list=PLRv_Gd5w9e7m7wokXmB9fGtGYw100UKc0).
 
-| day   | Project Name    | source Code/preview |                       YouTube Video       |
-| :---  | :-------------: | ------------------: |  ---------------------------------------: |
+| day   | Project Name    | source Code/preview |
+| :---  | :-------------: | ------------------: |
 | day-1 | Custom Cursor   | https://codepen.io/Web_Cifar/pen/OJMrzaB | 
 | day-2 | Theme Switcher  | https://codepen.io/Web_Cifar/pen/OJMrdbq | 
 | day-3 | Random Dad Jokes Generator | https://codepen.io/Web_Cifar/pen/XWXOZWX | 
